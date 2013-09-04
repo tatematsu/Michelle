@@ -1,0 +1,100 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   .project
+#	new file:   .settings/com.appcelerator.titanium.mobile.prefs
+#	new file:   .settings/com.aptana.editor.common.prefs
+#	new file:   .settings/org.eclipse.ltk.core.refactoring.prefs
+#	new file:   CHANGELOG.txt
+#	new file:   LICENSE
+#	new file:   LICENSE.txt
+#	new file:   README
+#	new file:   Resources/Ti.Google.Analytics.js
+#	new file:   Resources/android/appicon.png
+#	new file:   Resources/android/default.png
+#	new file:   Resources/android/images/res-long-land-hdpi/default.png
+#	new file:   Resources/android/images/res-long-land-ldpi/default.png
+#	new file:   Resources/android/images/res-long-port-hdpi/default.png
+#	new file:   Resources/android/images/res-long-port-ldpi/default.png
+#	new file:   Resources/android/images/res-notlong-land-hdpi/default.png
+#	new file:   Resources/android/images/res-notlong-land-ldpi/default.png
+#	new file:   Resources/android/images/res-notlong-land-mdpi/default.png
+#	new file:   Resources/android/images/res-notlong-port-hdpi/default.png
+#	new file:   Resources/android/images/res-notlong-port-ldpi/default.png
+#	new file:   Resources/android/images/res-notlong-port-mdpi/default.png
+#	new file:   Resources/app.js
+#	new file:   Resources/camera.js
+#	new file:   Resources/coming_soon.png
+#	new file:   Resources/event_win.js
+#	new file:   Resources/fukawanoyu.png
+#	new file:   Resources/funakoshi_ttl.png
+#	new file:   Resources/hatsukaichi_ttl.png
+#	new file:   Resources/iphone/Default-568h@2x.png
+#	new file:   Resources/iphone/Default-Landscape.png
+#	new file:   Resources/iphone/Default-Portrait.png
+#	new file:   Resources/iphone/Default.png
+#	new file:   Resources/iphone/Default@2x.png
+#	new file:   Resources/iphone/appicon.png
+#	new file:   Resources/kabe_ttl.png
+#	new file:   Resources/letter.png
+#	new file:   Resources/location_icon.png
+#	new file:   Resources/logo.png
+#	new file:   Resources/map_win.js
+#	new file:   Resources/michelle-call-btn.png
+#	new file:   Resources/michelle_border.png
+#	new file:   Resources/michelle_footer.png
+#	new file:   Resources/mobileweb/appicon.png
+#	new file:   Resources/mobileweb/apple_startup_images/Default-Landscape.jpg
+#	new file:   Resources/mobileweb/apple_startup_images/Default-Landscape.png
+#	new file:   Resources/mobileweb/apple_startup_images/Default-Portrait.jpg
+#	new file:   Resources/mobileweb/apple_startup_images/Default-Portrait.png
+#	new file:   Resources/mobileweb/apple_startup_images/Default.jpg
+#	new file:   Resources/mobileweb/apple_startup_images/Default.png
+#	new file:   Resources/mobileweb/apple_startup_images/README
+#	new file:   Resources/mobileweb/splash/README
+#	new file:   Resources/mobileweb/splash/appc.png
+#	new file:   Resources/mobileweb/splash/splash.css
+#	new file:   Resources/mobileweb/splash/splash.html
+#	new file:   Resources/mobileweb/splash/titanium.png
+#	new file:   Resources/parco.png
+#	new file:   Resources/reservation_win.android.heigh.jss
+#	new file:   Resources/reservation_win.android.medium.jss
+#	new file:   Resources/reservation_win.js
+#	new file:   Resources/reserve_icon.png
+#	new file:   Resources/status_available.png
+#	new file:   Resources/status_full.png
+#	new file:   apps1.png
+#	new file:   apps2.png
+#	new file:   la-michelle.apk
+#	new file:   large_icon.png
+#	new file:   manifest
+#	new file:   michelle
+#	new file:   michelle-footer.png
+#	new file:   michelle_app_keystore
+#	new file:   picture/apps1.png
+#	new file:   picture/apps2.png
+#	new file:   picture/coming_soon.png
+#	new file:   picture/fukayawanoyu.png
+#	new file:   picture/large_icon.png
+#	new file:   picture/michelle-footer.png
+#	new file:   picture/michelle_border.png
+#	new file:   platform/android/AndroidManifest.xml
+#	new file:   tiapp.xml
+#
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#   (commit or discard the untracked or modified content in submodules)
+#
+#	modified:   michelle (untracked content)
+#
+
