@@ -46,7 +46,7 @@ nav_kabe.addEventListener('click',function(e){
 var nav_funakoshi = Ti.UI.createButton(
 	{
 		title:'船越までナビ',
-		top: stageHeight/2.8,
+		top: stageHeight/2.5,
 		left: stageWidth/2,
 		width:	stageWidth/2
 	}
@@ -58,7 +58,7 @@ nav_funakoshi.addEventListener('click',function(e){
 var nav_hat = Ti.UI.createButton(
 	{
 		title:'廿日市までナビ',
-		top: stageHeight/2.8,
+		top: stageHeight/2.5,
 		left: 0,
 		width:	stageWidth/2
 	}

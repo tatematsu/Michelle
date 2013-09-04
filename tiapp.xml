@@ -8,7 +8,7 @@
     <property name="acs-api-key-development" type="string">7d01GfvvzTfkVKjofe7RlrNJbKC8zKdg</property>
     <id>com.michelle.android</id>
     <name>la-michelle</name>
-    <version>1.04</version>
+    <version>1.05</version>
     <publisher>Michelle Group</publisher>
     <url>http://www.la-michelle.com</url>
     <description>LaMichelle Mobile App</description>
