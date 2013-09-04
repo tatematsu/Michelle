@@ -1,0 +1,10 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=Michelle
+android/abi=armeabi
+android/distribute_path=C\:\\Users\\ntatematsu\\Documents\\Titanium_Studio_Workspace\\Michelle
+android/keystore_alias=LaMichelle
+android/keystore_password=michelle234
+android/keystore_path=C\:\\Users\\ntatematsu\\Documents\\Titanium_Studio_Workspace\\Michelle\\michelle_app_keystore
+android/recent_output=C\:\\Users\\ntatematsu\\Documents\\Titanium_Studio_Workspace\\Michelle
+android/sdk_version=Google APIs Android 2.2
+eclipse.preferences.version=1
